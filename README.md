@@ -8,10 +8,17 @@ The Microsoft Teams makes this possible, using the Power App the manager can con
 Gathered data will be visualized through Power Bi. According to the questionnaire result, the company can suggest various activities 
 that help increase employee well-being.
 
-There is another home page of manager. However before accessing the page he must needs to authorize with the password. On the home page of manager there are buttons: “Weekly report”, “Chilling”, “Help”.  
+Usage:
+uMatter has two different user types for employees and managers.
 
+Employee side: On the employee page there are three buttons: Questionnaire, Chilling,  Help 
+Questionnaire page provides with weekly questionnaire for employees, based on what manager will get activities. 
+On the chilling page employee can himself suggest activities for manager 
+On the help button employee can contact with psychologist
+
+Manager side: There is another home page of manager. Before accessing the page manager needs to authorize with the password. 
+On the home page of manager there are buttons: “Weekly report”, “Chilling”, “Help”.  
 The Weekly report page shows the report form survey evaluation which is done weekly by employees. 
-
 Chilling page provides suggestions for manager
 
 
